@@ -55,7 +55,7 @@ public class HardwareMap13546
 {
     /* Public OpMode members. */
     public DcMotor leftFrontDrive = null;
-    public DcMotor leftBackDrive = null
+    public DcMotor leftBackDrive = null;
     public DcMotor rightFrontDrive  = null;
     public DcMotor rightBackDrive = null;
 
